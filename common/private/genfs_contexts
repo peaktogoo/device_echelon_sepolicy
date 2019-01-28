@@ -1,0 +1,2 @@
+genfscon ntfs / u:object_r:vfat:s0
+genfscon sdfat / u:object_r:vfat:s0
